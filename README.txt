@@ -6,24 +6,5 @@
 # Improvements and what's next
 
 
-Project description:
-
-In I Lost My Limbs you find yourself in the Greek statue museum. They recently moved places and are reopening soon. In order to move all the statues they had to cut off all their limbs. Unfortunately, they messed up the limbs of the goddess Aphrodite. They are scattered around the museum. Of course she isn't happy with that, so she decides that action needs to be taken.
-
-The player has to traverse the halls of the Greek Statue museum, strategically swapping limbs to restore the statue of Aphrodite, all while avoiding observant guards. But, the clock is ticking, as the museum's grand reopening approaches
-
-Before starting the game:
-You start as the right leg of Aphrodite. The green statue is from Aphrodite. Just like the green limbs.
-
-While limb:
--Left stick to move
--Right stick to look
--X to become statue
-While statue:
--Left trigger to become left arm
--Right trigger to become right arm
--Left bumper to become left leg
--Right bumper to become right leg
-
 
 
