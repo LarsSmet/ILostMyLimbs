@@ -14,6 +14,8 @@ The Greek Statue Museum recently moved places and is reopening soon. In order to
 There are guards walking around the museum, if they spot you, you lose.
 ## Limb swap
 The main mechanic of the game is swapping limbs. If you are a limb, you can only go onto statues that have that limb missing. If you become a statue you attach the limb to that statue. If you are a statue, you can't be seen by the guards. To go off the statue, you have to become a limb again, you can only become one of the limbs that the statue has. 
+
+
 ![limbswap](https://github.com/LarsSmet/ILostMyLimbs/assets/97398099/ff0099d4-e37a-4555-bf56-090711a3c435)
 
 ## Restoring the statue of Aphrodite
