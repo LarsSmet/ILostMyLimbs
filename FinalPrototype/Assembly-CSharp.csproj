@@ -61,10 +61,10 @@
     <Compile Include="Assets\Scripts\FieldOfViewDebug.cs" />
     <Compile Include="Assets\Scripts\Statue.cs" />
     <Compile Include="Assets\Scripts\PlayerControls.cs" />
+    <Compile Include="Assets\Scripts\Timer.cs" />
     <Compile Include="Assets\Scripts\StructsAndOther.cs" />
     <Compile Include="Assets\Scripts\LimbBehaviour.cs" />
     <Compile Include="Assets\Scripts\EnemyAI.cs" />
-    <Compile Include="Assets\Scripts\Timer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

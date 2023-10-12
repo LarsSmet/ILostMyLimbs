@@ -5346,7 +5346,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3160174103222339630, guid: 58dfb5f2fce30f4459afd7b0c9ee76c7, type: 3}
       propertyPath: _leftArmMissing
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3160174103222339630, guid: 58dfb5f2fce30f4459afd7b0c9ee76c7, type: 3}
       propertyPath: _rightLegMissing
